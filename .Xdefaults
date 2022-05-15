@@ -1,0 +1,10 @@
+ URxvt.background:   #000000
+ URxvt.foreground:   #4ad5e1
+! URxvt.foreground: #ffffff
+URxvt.scrollBar: false
+URxvt.letterSpace: -1.8
+! URxvt.font: xft:Liberation Mono:pixelsize=15:aspect=0.9
+! URxvt.boldFont: xft:Liberation Mono:pixelsize=15:aspect=0.9
+URxvt.intensityStyles: false
+URxvt.boldFont:
+
