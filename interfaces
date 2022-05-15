@@ -12,7 +12,7 @@ iface wlp3s0 inet manual
   wpa-roam /etc/wpa_supplicant/wpa_supplicant.conf
 
 iface home inet static
-  address 192.168.1.11
+  address 192.168.1.5
   netmask 255.255.255.0
   network 192.168.1.0
   broadcast 192.168.0.255
