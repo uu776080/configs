@@ -1,0 +1,24 @@
+!XTerm*locale: true
+!UXTerm*fontdefault: 6x10
+!UXTerm*customization:	-color
+UXTerm*faceName: -xos4-terminus-medium-r-normal-*-16-160-72-72-c-80-iso10646-1
+!UXTerm*faceSize: 11
+UXTerm*metaSendsEscape: true
+UXTerm*allowSendEvents: true
+UXTerm*allowBoldFonts: false
+!UXTerm*font: -misc-fixed-medium-r-*-*-14-*-*-*-*-*-iso10646-*
+UXTerm*font: -xos4-terminus-medium-r-normal-*-16-160-72-72-c-80-iso10646-1
+UXTerm*ForceBoxChars: true
+UXTerm*selectToClipboard: true
+UXTerm*renderFont: true
+
+XTerm*customization:	-color
+XTerm*faceName: 'DejaVu Sans'
+XTerm*faceSize: 11
+XTerm*metaSendsEscape: true
+XTerm*allowSendEvents: true
+XTerm*allowBoldFonts: false
+XTerm*font: -misc-fixed-medium-r-*-*-14-*-*-*-*-*-iso10646-*
+XTerm*ForceBoxChars: true
+XTerm*selectToClipboard: true
+XTerm*renderFont: true
